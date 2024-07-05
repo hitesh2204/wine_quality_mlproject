@@ -13,7 +13,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup(
-name='mlproject',
+name='wine_quliaty_mlproject',
 version='0.0.1',
 author='Hitesh Yerekar',
 author_email="hitesh.yerekar@gmail.com",
